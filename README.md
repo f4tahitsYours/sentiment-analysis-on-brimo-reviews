@@ -1,4 +1,3 @@
-```markdown
 # 📊 Sentiment Analysis on BRImo User Reviews
 
 > A complete NLP pipeline project to scrape, clean, analyze, and visualize user reviews of the **BRImo** mobile application from Google Play Store.
@@ -58,16 +57,14 @@ This project aims to perform **sentiment analysis** on the BRImo (BRI Mobile Ban
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/username/sentiment-analysis-brimo.git
 cd sentiment-analysis-brimo
-````
+
 
 ### 2. Install Dependencies
 
-```bash
 pip install -r requirements.txt
-```
+
 
 ### 3. Scrape Google Play Reviews
 
