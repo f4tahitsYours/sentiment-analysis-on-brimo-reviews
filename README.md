@@ -39,13 +39,10 @@ This project aims to perform **sentiment analysis** on the BRImo (BRI Mobile Ban
 
 📁 sentiment-analysis-brimo
 │
-├── 📁 data                # Raw and cleaned data files (CSV)
-├── 📁 models              # Trained ML models (joblib/pkl)
-├── 📁 notebooks           # All Jupyter/Colab notebooks
-│   ├── Scraping\_Data.ipynb
-│   ├── Preprocessing.ipynb
-│   └── Modeling.ipynb
-├── 📁 visualizations      # Output graphs, wordclouds, etc.
+├── 📁 data
+├── 📁 notebooks
+│   ├── Scraping_Data.ipynb   
+│   └── sentiment-analysis.ipynb
 ├── 📄 README.md           # Project documentation
 └── 📄 requirements.txt    # Python dependencies
 
