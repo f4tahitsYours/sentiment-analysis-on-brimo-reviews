@@ -163,27 +163,10 @@ The dataset is split into training and testing sets, and the following models ar
 
 ---
 
-## 📃 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙋‍♂️ Author
 
 **Nuruddin Sulthon Syah Fatahillah Rahmani**
 *Machine Learning Graduate at Bangkit Academy 2024*
-📧 [Email](mailto:nuruddinssfr@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/nuruddin-sulthon/)
+📧 [Email](mailto:adjikp76@gmail.com) | 🌐 [LinkedIn]([https://www.linkedin.com/in/nuruddin-sulthon/](https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/))
 
 ---
-
-## ⭐️ Support
-
-If this project helped you, please consider giving it a **⭐️ star** on GitHub!
-
-```
-
----
-
-Jika kamu juga ingin versi bahasa Indonesianya atau ingin saya bantu buat file `requirements.txt`, silakan beri tahu!
-```
