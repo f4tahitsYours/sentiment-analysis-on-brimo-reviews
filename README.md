@@ -37,7 +37,7 @@ This project aims to perform **sentiment analysis** on the BRImo (BRI Mobile Ban
 
 ```
 
-📁 sentiment-analysis-brimo
+📁 sentiment-analysis-on-brimo-reviews
 │
 ├── 📁 data
 ├── 📁 notebooks
