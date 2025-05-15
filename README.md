@@ -1,7 +1,3 @@
-Berikut ini adalah versi akhir dari `README.md` yang sudah **digabung**, **selaras**, dan **profesional** untuk repository GitHub proyek *Sentiment Analysis on BRImo Reviews*. Ini mencakup deskripsi proyek, tujuan, proses scraping, preprocessing, modeling, visualisasi, dan cara penggunaan:
-
----
-
 ```markdown
 # 📊 Sentiment Analysis on BRImo User Reviews
 
