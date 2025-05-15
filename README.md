@@ -167,6 +167,6 @@ The dataset is split into training and testing sets, and the following models ar
 
 **Nuruddin Sulthon Syah Fatahillah Rahmani**
 *Machine Learning Graduate at Bangkit Academy 2024*
-📧 [Email](mailto:adjikp76@gmail.com) | 🌐 [LinkedIn]([https://www.linkedin.com/in/nuruddin-sulthon/](https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/))
+📧 [Email](mailto:adjikp76@gmail.com) | 🌐 [LinkedIn]([https://www.linkedin.com/in/nuruddin-sulthon/](https://www.linkedin.com/in/nuruddin-sulthon-syah-fatahillah-rahmani-35765829b/)
 
 ---
