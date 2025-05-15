@@ -57,8 +57,8 @@ This project aims to perform **sentiment analysis** on the BRImo (BRI Mobile Ban
 
 ### 1. Clone the Repository
 
-git clone [https://github.com/username/sentiment-analysis-brimo](https://github.com/f4tahitsYours/sentiment-analysis-on-brimo-reviews/tree/main).git
-cd sentiment-analysis-brimo
+git clone https://github.com/f4tahitsYours/sentiment-analysis-on-brimo-reviews.git
+cd sentiment-analysis-on-brimo-reviews
 
 
 ### 2. Install Dependencies
